@@ -61,7 +61,9 @@
 
 <img width='100%' height='195px'  src= "https://github-readme-stats.vercel.app/api?username=manfred-pc&theme=catppuccin_latte">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manfred-pc&size_weight=0.5&count_weight=0.5&theme=catppuccin_latte)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manfred-pc&layout=donut&size_weight=0.5&count_weight=0.5&theme=catppuccin_latte)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Manfred-pc&theme=catppuccin-latte)](https://git.io/streak-stats)
 
 </div>
 <!--
