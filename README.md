@@ -5,6 +5,8 @@
 <img src="https://komarev.com/ghpvc/?username=manfred-pc&label=Vizualizações%20no%20perfil&color=0e75b6&style=flat" alt="manfred" />  
 </div>
 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Rodrigo-Cn}/count.svg" /></p> 
+
 #### About me
 
 <p>Hi, I'm from Manaus - Brazil.  I wish change the world with my developer habilites, thus helping people.  Determination to learn will never be lacking in me.</p>
