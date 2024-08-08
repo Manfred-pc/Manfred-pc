@@ -9,25 +9,22 @@
 
 #### About me
 
-<p>Hi, I'm from Manaus - Brazil. I am currently studying for a Bachelor's Degree in Pure and Applied Mathematics at UFAM. I wish change the world with my developer habilites, thus helping people.  Determination to learn will never be lacking in me.</p>
+<p>Hi, I'm from Manaus - Brazil. I am currently studying for a Bachelor's Degree in Pure and Applied Mathematics at UFAM.</p>
+
+<p>I wish change the world with my developer habilites, thus helping people.  Determination to learn will never be lacking in me.</p>
 
 
 #### Curiosities
 
-<p>I got a 10 on my final technical course project.
-I love the Zelda game Majoras Mask.
-I love web programming. <3
-</p>
-
+<p>I got a 10 on my final technical course project. </p>
+<p>I love the Zelda game Majoras Mask.
+I love web programming. <3</p>
 
 ### Participation in projects 
 
-<p>[Web Site Hallel](URL)
+<p>[Web Site Hallel](URL) </p>
 
- I was a front-end programmer on a project to create an optimization website for a Catholic church. </p>
-
-
-
+<p>I was a front-end programmer on a project to create an optimization website for a Catholic church. </p>
 
 #### I'm currentyly learning...
 
