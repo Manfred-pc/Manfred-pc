@@ -22,9 +22,11 @@ I love web programming. <3</p>
 
 ### Participation in projects 
 
-<p>[Web Site Hallel](https://github.com/devthiagoramon/Hallel-Site)</p>
+<p>Web Site Hallel</p>
 
 <p>I was a front-end programmer on a project to create an optimization website for a Catholic church. </p>
+
+Link: [Web Site Hallel](https://github.com/devthiagoramon/Hallel-Site)
 
 #### I'm currentyly learning...
 
