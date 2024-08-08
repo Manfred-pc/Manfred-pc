@@ -9,7 +9,25 @@
 
 #### About me
 
-<p>Hi, I'm from Manaus - Brazil.  I wish change the world with my developer habilites, thus helping people.  Determination to learn will never be lacking in me.</p>
+<p>Hi, I'm from Manaus - Brazil. I am currently studying for a Bachelor's Degree in Pure and Applied Mathematics at UFAM. I wish change the world with my developer habilites, thus helping people.  Determination to learn will never be lacking in me.</p>
+
+
+#### Curiosities
+
+<p>I got a 10 on my final technical course project.
+I love the Zelda game Majoras Mask.
+I love web programming. <3
+</p>
+
+
+### Participation in projects 
+
+<p>[Web Site Hallel](URL)
+
+ I was a front-end programmer on a project to create an optimization website for a Catholic church. </p>
+
+
+
 
 #### I'm currentyly learning...
 
@@ -71,14 +89,4 @@
 <!--
 **Manfred-pc/Manfred-pc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
