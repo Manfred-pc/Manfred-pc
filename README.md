@@ -7,7 +7,7 @@
 
 #### About me
 
-<p>Hi, I'm from Manaus - Brazil. I am currently studying for a Bachelor's Degree in Pure and Applied Mathematics at UFAM.</p>
+<p>Hi, I'm from Manaus – Brazil. I am currently studying for a Bachelor's Degree in Computer Science at UFAM.</p>
 
 <p>I wish change the world with my developer habilites, thus helping people.  Determination to learn will never be lacking in me.</p>
 
