@@ -14,7 +14,6 @@
 
 #### Curiosities
 
-<p>I got a 10 on my final technical course project. </p>
 <p>I love the Zelda game Majoras Mask.
 I love web programming. <3</p>
 
